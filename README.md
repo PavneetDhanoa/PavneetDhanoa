@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Pavneet Dhanoa 👋
 
-<!--
-**PavneetDhanoa/PavneetDhanoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Programming graduate (Sheridan College) and currently studying Data Science at the University of Calgary.  
+I’m actively looking for entry-level roles in **QA**, **IT Support**, **Junior Data Analyst**, or **Software Support / Junior Developer (Python/Java)**.
 
-Here are some ideas to get you started:
+## Skills
+- Python, Java, SQL
+- Problem-solving, debugging, basic testing
+- Data handling 
+- Strong communication & team leadership 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Expense Tracker (Python)** – CLI app that stores transactions in CSV and visualizes spending  
+  Repo: https://github.com/PavneetDhanoa/Expense-Tracker
+
+## Currently Learning
+- Writing cleaner Python, better project structure, and GitHub documentation
+- QA fundamentals and test case writing
+
+## Contact
+- Email: pavneet.dhanoa2104@gmail.com
