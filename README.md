@@ -1,6 +1,6 @@
 # Hi, I’m Pavneet Dhanoa 👋
 
-I’m a Computer Programming graduate (Sheridan College) and currently studying Bachelors of Science in Computing and Information Systems.  
+I’m a Computer Programming graduate (Sheridan College) and currently studying Bachelors of Science in Computing and Information Systems at Athabasca University.  
 I’m actively looking for entry-level roles in **QA**, **IT Support**, **Junior Data Analyst**, or **Software Support / Junior Developer (Python/Java)**.
 
 ## Skills
